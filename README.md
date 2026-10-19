@@ -124,3 +124,8 @@ The application has been built and tested locally using postman. Production depl
 ## Author
 
 Developed as a full-stack web development project.
+
+## Test Credentials
+
+Username : admin
+Password : AAdhithya2916
